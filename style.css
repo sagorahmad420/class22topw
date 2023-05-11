@@ -1,0 +1,25 @@
+
+img{
+    max-width: 100%;
+}
+.number-arey{
+    background:#8490ff ;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* responcip  */
+
+@media (max-width:676px){
+    .banear-arey.bg-light {
+        width: 106%;
+    }
+}
